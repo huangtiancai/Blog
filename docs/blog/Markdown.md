@@ -18,17 +18,13 @@ tags:
 <!--more-->
 
 # 学习目标
-
 通过学习，能对Markdown语法有个比较全面的认知，对日常工作写作排版尽量放弃Word、txt等文本工具，改直接用Markdown语言写文档。
 
 # 学习思路
 
 1. 开始先记住 # 这是标题  ## 这二级标题 ### 这是三级标题
-
 2. 然后可以记住用 1. 第一点、- 第一点 做列表超级方便
-
 3. 写作的正文总要加重点吧，**加粗** 、*斜体*、~~删除线~~就开始派上用场了
-
 4. 如果需要写代码或者命令的话 
     `\`这是单行代码\``
 
@@ -39,7 +35,6 @@ tags:
 
 # 正文
 ## Markdown是什么？
-
 ![](https://i.loli.net/2019/03/29/5c9dba1b3e470.png)
 
 | 互联网媒体类型 | `text/markdown`                                              |
@@ -52,7 +47,6 @@ tags:
 | 延伸成         | [MultiMarkdown](https://zh.wikipedia.org/w/index.php?title=MultiMarkdown&action=edit&redlink=1), [Markdown Extra](https://zh.wikipedia.org/w/index.php?title=Markdown_Extra&action=edit&redlink=1), [CommonMark](https://zh.wikipedia.org/w/index.php?title=CommonMark&action=edit&redlink=1) |
 | 自由格式       | yes                                                          |
 | 网站           | [daringfireball.net/projects/markdown](https://daringfireball.net/projects/markdown) |
-
 
 
 Markdwon 是一种轻量级 **标记语言**，它以纯文本形式（易读、易写、易更改）编写文档，并最终以HTLM格式发布。Markdown也可以理解为将以 MARKDOWN语法编写的语言转换成HTML内容的工具。[维基百科](https://zh.wikipedia.org/wiki/Markdown) | [百度百科](https://baike.baidu.com/item/markdown/3245829?fr=aladdin)
@@ -246,7 +240,6 @@ ___
 ___
 
 ---
-
 
 
 ### 链接
