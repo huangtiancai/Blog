@@ -1,11 +1,15 @@
 <!-- docs/_sidebar.md -->
 
 - 介绍
+  - [关于](/about/README.md)
   - [开始使用docsify](/README.md)
-  
+
 - 博客
   - [使用服务器搭建Typecho博客](/blog/使用服务器搭建Typecho博客.md "Typecho")
   - [使用hexo-github搭建免费个人博客](/blog/使用hexo-github搭建免费个人博客.md "hexo")
+  - [Markdown](/blog/Markdown.md "Markdown")
+  - [Markdown进阶](/blog/Markdown进阶.md "Markdown进阶")
+  - [Markdown-video.md](/blog/Markdown-video.md.md "Markdown-video.md")
 
 - 入门
   - [快速开始](/quickstart/README "快速开始")
