@@ -13,7 +13,6 @@ const HOSTNAME_WHITELIST = [
   'fonts.googleapis.com',
   'cdn.jsdelivr.net'
 ]
-
 // The Util Function to hack URLs of intercepted requests
 const getFixedUrl = (req) => {
   var now = Date.now()
