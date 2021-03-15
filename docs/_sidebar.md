@@ -18,5 +18,6 @@
     <!-- - [嵌套的侧边栏](/quickstart/README#jump2) -->
   - [多页文档](/more-pages/README "多页文档")
 
-- 常见时格式封装
+- 常用工具
   - [常见时间格式封装](/utils/time/常见时间格式封装.md "常见时格式封装")
+  - [前端利用jsencrypt.js进行RSA加密](/utils/jsencrypt/jsencrypt.md "前端利用jsencrypt.js进行RSA加密")
